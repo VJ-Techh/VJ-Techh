@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vj-techh&label=Profile%20views&color=0e75b6&style=flat" alt="vj-techh" /> </p>
 
-- 🌱 I’m currently learning **C, DSA, Python and Ruby**
+- 🌱 I’m currently learning **Python, AIML, DSA and C langauge**
 
-- 💬 Ask me about **C, Python and DSA**
+- 💬 Ask me about **Python, AIML and DSA**
 
 - 📫 How to reach me **varunbisawab@gmail.com**
 
